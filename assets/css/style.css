@@ -102,7 +102,8 @@ p {
     max-width: 150px;
 }
 /* merged online-reputation-management and social-media-marketing class into search-engine-optimization to avoid redundant class styles */
-.search-engine-optimization {
+/* modified name to prevent confusion with img and article titles */
+.article-style {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,15 +112,15 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.article-style img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.article-style h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* removed footer class and changed to <footer> to follow semantic element */
 footer {
     padding: 30px;
     clear: both;
