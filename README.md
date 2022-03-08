@@ -4,6 +4,7 @@
 We have been provided a website that needed code refactoring with the HTML and CSS. The goal was to provide better semantic elements in HTML to make it easier code to read and minimize redundancy in the CSS file. 
 We were able to complete this accordingly and provide an overall cleaner set of code for future use and updates. We were able to provide more detailed semantic elements in HTML file as well as reduce the amount of classes and ID used for CSS file, making the style sheet easier to work with and interpret.
 
+URL: https://torihendricks927.github.io/Hw-1-Code-Refactor-HTML-CSS/
 
 ## Installation and Usage
 
